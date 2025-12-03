@@ -23,4 +23,5 @@ data.json
 
 # Exclude documentation files
 docs/
+.claude
 CLAUDE.md
